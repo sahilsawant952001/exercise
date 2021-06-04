@@ -1,0 +1,16 @@
+.workOutCardImg{
+    height: 300px;
+    width: 300px;
+}
+
+.workOut{
+    text-align: center;
+    background-color: #edeef7;
+    padding: 1% 0 5% 0;
+}
+
+.workOut h2{
+    padding: 5%;
+    color: #b8b5ff;
+}
+

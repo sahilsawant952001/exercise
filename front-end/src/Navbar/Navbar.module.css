@@ -1,0 +1,12 @@
+.logo{
+    height: 70px;
+    width: 120px;
+}
+
+.back{
+    background-color: #ffffff;
+}
+
+.activeNav{
+    border-bottom: 5px solid #b8b5ff;
+}

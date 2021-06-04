@@ -1,0 +1,18 @@
+.workoutClass{
+    text-align: center;
+}
+
+.workoutClass h5{
+    display: inline-block;
+}
+
+.workoutClass h1{
+    color: #6c757d;
+}
+
+
+.group{
+    height: 500px;
+    width: 500px;
+    margin: 5% auto 0 auto;
+}

@@ -1,0 +1,21 @@
+.workoutClass{
+    text-align: center;
+    background-color: #b8b5ff;
+}
+
+.workoutClass h1{
+    padding: 3% 0 0 0;
+    color: white;
+}
+
+.workoutClass h5{
+    display: inline-block;
+}
+
+.group{
+    height: 500px;
+    width: 500px;
+    margin: 5% auto;
+}
+
+

@@ -1,0 +1,28 @@
+.main{
+    text-align: center;
+    background-color: #e4fbff;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    padding: 10% 10%;
+}
+
+.main h1{
+    color: #6c757d;
+    margin: auto;
+}
+
+.main button{
+    margin: 2%;
+}
+
+.main img{
+    margin: 2%;
+    height: 150px;
+    width: 200px;
+}
+
+.main h2,h3{
+    color: #6c757d;
+}
+

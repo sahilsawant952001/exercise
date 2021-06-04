@@ -1,0 +1,31 @@
+.auth{
+    width: 100%;
+    height: 100%;
+}
+
+.formClass{
+    height: 100%px;
+    width: 100%;
+    text-align: center;
+    padding: 10% 10%;
+    background-color: #edeef7;
+}
+
+.formClass h1{
+    color: #b8b5ff;
+}
+
+.formClass button,input{
+    margin: 3% 0;
+}
+
+.authImg{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.authOption{
+    padding: 5%;
+}
